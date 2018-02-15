@@ -1,0 +1,72 @@
+body {
+  background-image: url(https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/23172889_10155829968261950_5408577511875615204_n.jpg?oh=c92c1ad06a4555aed98c1104d3cc89e2&oe=5AC00823);
+  font-family: Helvetica;
+ }
+
+h1 {
+  position:relative;
+  letter-spacing: 17px;
+  padding: 14px;
+  align:center;
+  border:6px solid black;
+  color:black;
+  text-align:center;
+  border-radius:50px;
+  background-color: white;
+  margin-left:250px;
+  margin-right:250px;
+}
+
+h1:hover{
+  color:white;
+  border-color:white;
+  background-color:#000080;
+}
+
+img {
+  margin:auto;
+  border:6px solid white;
+  border-radius:150px;
+  display:block;
+}
+
+img:hover {
+  border:6px #000080 solid;
+  border-radius:150px
+ }
+
+.Src {
+  float:left;
+  margin-left:250px;
+  text-align:center;
+ }
+
+h2 {
+  position:relative;
+  color:black;
+  font-size:30px;
+  text-align:center;
+  }
+
+h2:hover {
+  color:#000080;
+ }
+
+.podatki{
+  color: white;
+  margin: 50px 400px 50px 400px;
+  text-align: left;
+  padding-left: 20px;
+  font-size: 20px;
+  border: solid white;
+  border-radius: 25px;
+  background-color: #000080;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
